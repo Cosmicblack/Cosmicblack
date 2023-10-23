@@ -1,3 +1,3 @@
 - 👋 Hi, I’m a Coder
 - 👀 I’m interested in Python, HTML, CSS, Python Turtle
-- 🌱 I’m currently on VSCode
+- 🌱 I’m currently on VSCode and Replit as @AsumicCosmos11
